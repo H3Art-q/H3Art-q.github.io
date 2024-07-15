@@ -123,6 +123,8 @@ languages:
     percent: 100
   - name: English
     percent: 75
+  - name: Chinese (Teochew Dialect)
+    percent: 90
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -160,5 +162,4 @@ languages:
 
 ## About Me
 
-
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Yuqin Hong is an undergraduate student pursuing bachelor of engineering degree in computer science and technology at the International School of Jinan University. He is currently under the supervision of Professor [Yuxia Sun](https://www.scholat.com/yxsun) and seeking admission to postgraduate studies.
