@@ -49,7 +49,7 @@ interests:
 
 education:
   - area: B.Eng Computer Science and Technology
-    institution: Jinan University
+    institution: International School, Jinan University
     date_start: 2021-09-05
     date_end: 2025-07-01
     summary: |
@@ -76,15 +76,11 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 100
         icon: code-bracket
-      # - name: Data Science
-      #   description: ''
-      #   percent: 100
-      #   icon: chart-bar
       - name: SQL
         description: ''
-        percent: 40
+        percent: 30
         icon: circle-stack
 
   - name: Hobbies
@@ -115,9 +111,9 @@ languages:
 
 awards:
     - title: China National Scholarship
-      awarder: Ministry of Education of the People's Republic of China
+      awarder: Ministry of Education
       date: '2023-12-20'
-    - title: Outstanding Backbone Student of Jinan University Scholarship
+    - title: Outstanding Backbone Student Scholarship
       awarder: Jinan University
       date: '2022-12-28'
 #   - title: Neural Networks and Deep Learning

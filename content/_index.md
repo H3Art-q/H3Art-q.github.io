@@ -38,7 +38,7 @@ sections:
         Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
 
         I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
+
         Please reach out to collaborate 😃
     design:
       columns: '1'
@@ -63,16 +63,6 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
   - block: collection
     id: news
     content:
@@ -101,7 +91,7 @@ sections:
       view: date-title-summary
       # Reduce spacing
       spacing:
-        padding: [0, 0, 0, 0]
+        padding: [ 0, 0, 0, 0 ]
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
@@ -112,7 +102,7 @@ sections:
         <a class="github-button" href="https://github.com/HugoBlox/hugo-blox-builder" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star HugoBlox/hugo-blox-builder on GitHub">Star</a>
 
         Easily build anything with blocks - no-code required!
-        
+
         From landing pages, second brains, and courses to academic resumés, conferences, and tech blogs.
       button:
         text: Get Started
