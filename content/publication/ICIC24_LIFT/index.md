@@ -1,8 +1,8 @@
 ---
-title: '(ICIC 24) LIFT: Discriminant Classification Approach of Malware Family on Time Consistent Open Set'
+title: 'LIFT: Discriminant Classification Approach of Malware Family on Time Consistent Open Set'
 
 # Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here,
 # and it will be replaced with their full name and linked to their profile.
 authors:
     - Yuxia Sun
@@ -27,8 +27,8 @@ publishDate: '2024-08-23T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: LIFT:Discriminant Classification Approach of Malware Family on Time Consistent Open Set
-# publication_short: In *ICW*
+publication: International Conference on Intelligent Computing
+publication_short: ICIC
 
 abstract: In recent years, the rapid evolution of malware, including the emergence of new variants and families, has posed a significant challenge to antivirus defenses. To address this, some approaches to Malware Open Set Recognition (MOSR) have been introduced, aiming to categorize known malware families and detect new ones. Nevertheless, current MOSR research tends to neglect the effect of time inconsistency within datasets, which can result in an overly optimistic evaluation of MOSR effectiveness. To mitigate this issue, a new MOSR method named LIFT has been developed, focusing on a time-consistent division of malware datasets. LIFT employs the self-attention mechanism to understand the correlations among known malware families. It also integrates a linear probe and a unique regularization term to enhance the separability of deep representations. In the recognition phase, LIFT implements a feature truncation tactic to adjust the dimensional values in the samples' deep representation vectors, thereby enhancing their distinctiveness. Tests on time-consistent open datasets demonstrate that LIFT significantly outperforms existing techniques in open set recognition efficiency.
 
@@ -55,7 +55,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://link.springer.com/chapter/10.1007/978-981-97-5663-6_4#citeas'
+url_source: ''
 url_video: ''
 
 # Featured image

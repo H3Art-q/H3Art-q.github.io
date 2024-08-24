@@ -1,13 +1,11 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: Gitbook-CSTguidance
+date: 2024-8-22
+external_link: https://h3art.gitbook.io/guidance
 tags:
-  - Hugo
-  - Wowchemy
   - Markdown
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+The CST Guidance is a review of my undergraduate career. I hope it will be helpful to you.
 
 <!--more-->

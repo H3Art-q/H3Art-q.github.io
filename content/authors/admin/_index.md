@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 洪与秦
+title: Yuqin Hong
 
 # Name pronunciation (optional)
-name_pronunciation: Hóng Yǔqín 
+# name_pronunciation: Hóng Yǔqín 
 
 # Full name (for SEO)
 first_name: Yuqin
@@ -77,6 +77,14 @@ skills:
       - name: Python
         description: ''
         percent: 100
+        icon: code-bracket
+      - name: Java
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: C++
+        description: ''
+        percent: 50
         icon: code-bracket
       - name: SQL
         description: ''

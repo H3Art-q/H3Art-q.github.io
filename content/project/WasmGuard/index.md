@@ -1,13 +1,14 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: WasmGuard
+date: 2024-8-12
+external_link: https://github.com/Q8201/WasmGuard
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - JavaScript
+  - Vue
+  - Deep learning
+  - Malware detection
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+WebChecker is a Chrome browser plugin based on WasmGuard, designed to alert users about malicious WebAssembly (Wasm) files.
 
 <!--more-->
