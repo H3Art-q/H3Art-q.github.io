@@ -1,6 +1,6 @@
 ---
 title: Gitbook-CSTguidance
-date: 2024-8-22
+date: 2024-08-22
 external_link: https://h3art.gitbook.io/guidance
 tags:
   - Markdown
