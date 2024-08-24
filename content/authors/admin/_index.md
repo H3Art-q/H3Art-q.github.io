@@ -116,10 +116,10 @@ languages:
 awards:
     - title: China National Scholarship
       awarder: Ministry of Education of the People's Republic of China
-      date: '2023-12'
+      date: '2023-12-20'
     - title: Outstanding Backbone Student of Jinan University Scholarship
       awarder: Jinan University
-      date: '2022-12'
+      date: '2022-12-28'
 #   - title: Neural Networks and Deep Learning
 #     url: https://www.coursera.org/learn/neural-networks-deep-learning
 #     date: '2023-11-25'
