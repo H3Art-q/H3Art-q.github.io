@@ -22,6 +22,10 @@ sections:
     content:
       title: Honors & Awards
       username: admin
+  - block: resume-competitions
+    content:
+      title: Competitions
+      username: admin
   - block: resume-skills
     content:
       title: Skills & Hobbies
