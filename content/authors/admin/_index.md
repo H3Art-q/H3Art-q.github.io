@@ -113,6 +113,10 @@ skills:
         description: ''
         percent: 100
         icon: cat
+      - name: Minesweeper
+        description: ''
+        percent: 100
+        icon: /custom/bomb
       - name: Photography
         description: ''
         percent: 80
