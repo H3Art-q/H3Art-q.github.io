@@ -77,7 +77,7 @@ skills:
       - name: Python
         description: ''
         percent: 100
-        icon: code-bracket
+        icon: /devicon/python
       - name: Java
         description: ''
         percent: 80
