@@ -81,15 +81,15 @@ skills:
       - name: Java
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: /devicon/java
       - name: C++
         description: ''
         percent: 50
-        icon: code-bracket
+        icon: /devicon/cplusplus
       - name: SQL
         description: ''
         percent: 30
-        icon: circle-stack
+        icon: /devicon/mysql
 
   - name: Hobbies
     color: '#eeac02'
@@ -103,6 +103,10 @@ skills:
         description: ''
         percent: 80
         icon: camera
+      - name: Cycling
+        description: ''
+        percent: 80
+        icon: /custom/cycling
 
 languages:
   - name: Chinese
