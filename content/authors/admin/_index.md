@@ -158,7 +158,7 @@ awards:
 #       xxx.
 
 competitions:
-  - title: National Second Prize & Provincial First Prize
+  - title: National Third Prize & Provincial First Prize
     awarder: The 15th LanQiao Cup Contest
     date: '2023-06-02'
 

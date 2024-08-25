@@ -22,7 +22,7 @@ sections:
     content:
       title: Honors & Awards
       username: admin
-  - block: resume-competitions
+  - block: resume-awards
     content:
       title: Competitions
       username: admin
