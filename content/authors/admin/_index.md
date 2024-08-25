@@ -51,9 +51,8 @@ education:
     institution: International School, Jinan University
     date_start: 2021-09-05
     date_end: 2025-07-01
-    summary: |2-
+    summary: |
       GPA: 1.80/5.00
-      Medium of Instruction: English
 
 # work:
 #   - position: Director of Cloud Infrastructure
@@ -107,7 +106,7 @@ skills:
         description: ''
         percent: 80
         icon: /custom/cycling
-      - name: Electronic Music
+      - name: Music
         description: ''
         percent: 80
         icon: /custom/music
