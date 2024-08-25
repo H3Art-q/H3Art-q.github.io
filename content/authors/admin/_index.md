@@ -98,15 +98,15 @@ skills:
       - name: Cats
         description: ''
         percent: 100
-        icon: cat
+        icon: 🐱
       - name: Photography
         description: ''
         percent: 80
-        icon: camera
+        icon: 📷
       - name: Cycling
         description: ''
         percent: 80
-        icon: /custom/cycling
+        icon: 🚲
 
 languages:
   - name: Chinese
