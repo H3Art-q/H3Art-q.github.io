@@ -48,12 +48,15 @@ interests:
 
 education:
   - area: B.Eng Computer Science and Technology
-    institution: International School, Jinan University
+    institution: International School, Jinan University (211 Project)
     date_start: 2021-09-05
     date_end: 2025-07-01
     summary: |
-      GPA: 1.80/5.00
-
+      GPA: 1.80/5.00 (68.0/100.0)
+      
+      CET-4: 587, CET-6: 518
+      
+      Medium of Instruction: English
 # work:
 #   - position: Director of Cloud Infrastructure
 #     company_name: GenCoin
@@ -77,10 +80,22 @@ skills:
         description: ''
         percent: 100
         icon: /devicon/python
+      - name: Markdown
+        description: ''
+        percent: 100
+        icon: /devicon/markdown
+      - name: LaTeX
+        description: ''
+        percent: 90
+        icon: /devicon/latex
       - name: Java
         description: ''
         percent: 80
         icon: /devicon/java
+      - name: C
+        description: ''
+        percent: 80
+        icon: /devicon/c
       - name: C++
         description: ''
         percent: 50
@@ -128,6 +143,9 @@ awards:
     - title: China National Scholarship
       awarder: Ministry of Education
       date: '2023-12-20'
+    - title: Outstanding Student Representative
+      awarder: Jinan University
+      date: '2023-06-01'
     - title: Outstanding Backbone Student Scholarship
       awarder: Jinan University
       date: '2022-12-28'
@@ -143,4 +161,4 @@ awards:
 
 ## About Me
 
-Yuqin Hong is an undergraduate student pursuing bachelor of engineering degree in computer science and technology at the International School of Jinan University. He is currently under the supervision of Professor [Yuxia Sun](https://www.scholat.com/yxsun) and seeking admission to postgraduate studies.
+Yuqin Hong is an undergraduate student pursuing bachelor of engineering degree in computer science and technology at Jinan University. He is currently under the supervision of Professor [Yuxia Sun](https://www.scholat.com/yxsun) and seeking admission to postgraduate studies.
