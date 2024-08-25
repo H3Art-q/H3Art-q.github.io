@@ -45,7 +45,6 @@ interests:
   - Artificial Intelligence
   - Information Security
   - Information Retrieval
-  - Software Engineering
 
 education:
   - area: B.Eng Computer Science and Technology
@@ -54,6 +53,7 @@ education:
     date_end: 2025-07-01
     summary: |
       GPA: 1.80/5.00
+      Medium of Instruction: English
 
 # work:
 #   - position: Director of Cloud Infrastructure
@@ -98,15 +98,15 @@ skills:
       - name: Cats
         description: ''
         percent: 100
-        icon: 🐱
+        icon: cat
       - name: Photography
         description: ''
         percent: 80
-        icon: 📷
+        icon: camera
       - name: Cycling
         description: ''
         percent: 80
-        icon: 🚲
+        icon: /custom/cycling
 
 languages:
   - name: Chinese

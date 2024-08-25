@@ -36,7 +36,7 @@ abstract: In recent years, the rapid evolution of malware, including the emergen
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Malware family classification
+  - Malware classification
   - Time-consistent dataset
   - Open set recognition
   - Discriminative model
@@ -49,7 +49,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: '978-981-97-5663-6_4.pdf'
+url_pdf: 'https://link.springer.com/content/pdf/10.1007/978-981-97-5663-6_4.pdf?pdf=inline%20link'
 url_code: ''
 url_dataset: ''
 url_poster: ''
