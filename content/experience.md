@@ -22,13 +22,6 @@ sections:
     content:
       title: Honors & Awards
       username: admin
-  - block: resume-awards
-    id: competitions
-    content:
-      title: Competitions
-        - title: National Third Prize & Provincial First Prize
-          awarder: The 15th LanQiao Cup Contest
-          date: '2023-06-02'
   - block: resume-skills
     content:
       title: Skills & Hobbies
