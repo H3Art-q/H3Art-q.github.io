@@ -52,10 +52,8 @@ education:
     date_start: 2021-09-05
     date_end: 2025-07-01
     summary: |
-      GPA: 1.80/5.00 (68.0/100.0)
-      
-      CET-4: 587, CET-6: 518
-      
+      GPA: 4.07/5.00 (90.7/100.0)
+          
       Medium of Instruction: English
       
 # work:
