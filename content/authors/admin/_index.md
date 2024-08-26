@@ -57,6 +57,7 @@ education:
       CET-4: 587, CET-6: 518
       
       Medium of Instruction: English
+      
 # work:
 #   - position: Director of Cloud Infrastructure
 #     company_name: GenCoin
@@ -130,14 +131,6 @@ skills:
         percent: 80
         icon: /custom/music
 
-languages:
-  - name: Chinese
-    percent: 100
-  - name: Chinese (Teochew Dialect)
-    percent: 90
-  - name: English
-    percent: 75
-
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
@@ -149,19 +142,19 @@ awards:
       awarder: The 15th LanQiao Cup Contest
       date: '2024-06-02'
     - title: Provincial Second Prize
-      icon: /custom/trophy
+      # icon: /custom/trophy
       awarder: Contemporary Undergraduate Mathematical Contest in Modeling
       date: '2024-05-09'
     - title: China National Scholarship
-      icon: /custom/scholarship
+      # icon: /custom/scholarship
       awarder: Ministry of Education
       date: '2023-12-20'
     - title: Outstanding Student Representative
-      icon: /custom/honor
+      # icon: /custom/honor
       awarder: Jinan University
       date: '2023-06-01'
     - title: Outstanding Backbone Student Scholarship
-      icon: /custom/scholarship
+      # icon: /custom/scholarship
       awarder: Jinan University
       date: '2022-12-28'
     - title: Provincial Third Prize
@@ -175,6 +168,14 @@ awards:
 #      icon: coursera
 #      summary: |
 #        xxx.
+
+languages:
+  - name: Chinese
+    percent: 100
+  - name: Chinese (Teochew Dialect)
+    percent: 90
+  - name: English
+    percent: 75
 
 ---
 
