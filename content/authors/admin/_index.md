@@ -167,14 +167,14 @@ awards:
     - title: Provincial Third Prize
       awarder: National Student Contest on Software Testing
       date: '2022-11-27'
-      icon: /custom/music
-#   - title: Neural Networks and Deep Learning
-#     url: https://www.coursera.org/learn/neural-networks-deep-learning
-#     date: '2023-11-25'
-#     awarder: Coursera
-#     icon: coursera
-#     summary: |
-#       xxx.
+      icon: /custom/trophy
+    - title: Neural Networks and Deep Learning
+      url: https://www.coursera.org/learn/neural-networks-deep-learning
+      date: '2023-11-25'
+      awarder: Coursera
+      icon: coursera
+      summary: |
+        xxx.
 
 ---
 
