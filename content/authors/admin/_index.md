@@ -144,7 +144,7 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 
 awards:
-    - title: National Third Prize & Provincial First Prize
+    - title: National Third Prize and Provincial First Prize
       awarder: The 15th LanQiao Cup Contest
       date: '2024-06-02'
       icon: /custom/trophy
