@@ -138,7 +138,7 @@ skills:
 
 awards:
     - title: National Third Prize and Provincial First Prize
-      icon: /custom/trophy
+      # icon: /custom/trophy
       awarder: The 15th LanQiao Cup Contest
       date: '2024-06-02'
     - title: Provincial Second Prize
@@ -158,7 +158,7 @@ awards:
       awarder: Jinan University
       date: '2022-12-28'
     - title: Provincial Third Prize
-      icon: /custom/trophy
+      # icon: /custom/trophy
       awarder: National Student Contest on Software Testing
       date: '2022-11-27'
 #    - title: Neural Networks and Deep Learning
