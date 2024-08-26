@@ -144,15 +144,30 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 
 awards:
+    - title: National Third Prize & Provincial First Prize
+      awarder: The 15th LanQiao Cup Contest
+      date: '2024-06-02'
+      icon: /custom/trophy
+    - title: Provincial Second Prize
+      awarder: Contemporary Undergraduate Mathematical Contest in Modeling
+      date: '2024-05-09'
+      icon: /custom/trophy
     - title: China National Scholarship
       awarder: Ministry of Education
       date: '2023-12-20'
+      icon: /custom/scholarship
     - title: Outstanding Student Representative
       awarder: Jinan University
       date: '2023-06-01'
+      icon: /custom/honor
     - title: Outstanding Backbone Student Scholarship
       awarder: Jinan University
       date: '2022-12-28'
+      icon: /custom/scholarship
+    - title: Provincial Third Prize
+      awarder: National Student Contest on Software Testing
+      date: '2022-11-27'
+      icon: /custom/trophy
 #   - title: Neural Networks and Deep Learning
 #     url: https://www.coursera.org/learn/neural-networks-deep-learning
 #     date: '2023-11-25'
