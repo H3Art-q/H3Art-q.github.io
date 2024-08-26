@@ -1,5 +1,5 @@
 ---
-title: WasmGuard
+title: WebChecker
 date: 2024-08-12
 external_link: https://github.com/Q8201/WasmGuard
 tags:
