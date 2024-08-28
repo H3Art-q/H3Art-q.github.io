@@ -168,12 +168,14 @@ awards:
 #        xxx.
 
 languages:
-  - name: Chinese
+  - name: Chinese (Mandarin)
     percent: 100
-  - name: Chinese (Teochew Dialect)
-    percent: 90
+  - name: Chinese (Teochew)
+    percent: 100
+  - name: Chinese (Cantonese)
+    percent: 70
   - name: English
-    percent: 75
+    percent: 70
 
 ---
 
