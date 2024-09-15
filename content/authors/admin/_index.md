@@ -39,11 +39,13 @@ profiles:
     url: https://scholar.google.com/citations?user=5ALyGM0CSaAC&hl=zh-CN
   - icon: academicons/orcid
     url: https://orcid.org/0009-0007-9663-4524
+  - icon: /custom/netease_cloud_music
+    url: https://music.163.com/#/user/home?id=575233892
 
 interests:
   - Deep Learning
   - Artificial Intelligence
-  - Information Security
+  - Software Security
   - Information Retrieval
 
 education:
@@ -181,4 +183,4 @@ languages:
 
 ## About Me
 
-Yuqin Hong is an undergraduate student pursuing bachelor of engineering degree in computer science and technology at Jinan University. He is currently under the supervision of Professor [Yuxia Sun](https://www.scholat.com/yxsun) and seeking admission to postgraduate studies.
+Yuqin Hong is an undergraduate student pursuing bachelor of engineering degree in computer science and technology at Jinan University. He is doing a research internship in Professor [Yuxia Sun](https://www.scholat.com/yxsun)'s research group and is also looking for admission to postgraduate studies.
