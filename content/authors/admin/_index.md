@@ -43,18 +43,18 @@ profiles:
     url: https://music.163.com/#/user/home?id=575233892
 
 interests:
-  - Deep Learning
-  - Artificial Intelligence
-  - Software Security
+  - Temporal Data Mining
+  - Reinforcement Learning
   - Information Retrieval
+  - Software Security
 
 education:
   - area: B.Eng Computer Science and Technology
-    institution: International School, Jinan University (211 Project)
+    institution: International School, Jinan University (Guangzhou, Guangdong)
     date_start: 2021-09-05
     date_end: 2025-07-01
     summary: |
-      GPA: 4.07/5.00 (90.7/100.0)
+      GPA: 4.08/5.00 (90.8/100.0)
           
       Medium of Instruction: English
       
@@ -81,10 +81,6 @@ skills:
         description: ''
         percent: 100
         icon: /devicon/python
-      - name: Markdown
-        description: ''
-        percent: 100
-        icon: /devicon/markdown
       - name: LaTeX
         description: ''
         percent: 90
@@ -101,10 +97,6 @@ skills:
         description: ''
         percent: 50
         icon: /devicon/cplusplus
-      - name: SQL
-        description: ''
-        percent: 30
-        icon: /devicon/mysql
 
   - name: Hobbies
     color: '#eeac02'
@@ -118,6 +110,10 @@ skills:
         description: ''
         percent: 100
         icon: /custom/bomb
+      - name: FreeCell
+        description: ''
+        percent: 90
+        icon: /custom/cards
       - name: Photography
         description: ''
         percent: 80
@@ -175,12 +171,12 @@ languages:
   - name: Chinese (Teochew)
     percent: 100
   - name: Chinese (Cantonese)
-    percent: 70
+    percent: 60
   - name: English
-    percent: 70
+    percent: 60
 
 ---
 
 ## About Me
 
-Yuqin Hong is an undergraduate student pursuing bachelor of engineering degree in computer science and technology at Jinan University. He is doing a research internship in Professor [Yuxia Sun](https://www.scholat.com/yxsun)'s research group and is also looking for admission to postgraduate studies.
+Yuqin Hong is an undergraduate student pursuing bachelor of engineering degree in computer science and technology at Jinan University. He has participated in a series of software security research in [Yuxia Sun](https://www.scholat.com/yxsun)'s research group. He will soon become a master's student in artificial intelligence at Jinan University.
