@@ -179,4 +179,4 @@ languages:
 
 ## About Me
 
-Yuqin Hong is an undergraduate student pursuing bachelor of engineering degree in computer science and technology at Jinan University. He has participated in a series of software security research in [Yuxia Sun](https://www.scholat.com/yxsun)'s research group. He will soon become a master's student in artificial intelligence at Jinan University.
+Yuqin Hong is an undergraduate student pursuing bachelor of engineering degree in computer science and technology at Jinan University. He will soon become a master's student in artificial intelligence at Jinan University.
