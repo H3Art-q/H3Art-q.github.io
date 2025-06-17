@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Undergraduate
+role: Ox & Horse
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -43,20 +43,30 @@ profiles:
     url: https://music.163.com/#/user/home?id=575233892
 
 interests:
+  - AI Acceleration
   - Temporal Data Mining
   - Reinforcement Learning
-  - Information Retrieval
   - Software Security
 
 education:
   - area: B.Eng Computer Science and Technology
-    institution: International School, Jinan University (Guangzhou, Guangdong)
+    institution: Jinan University (Guangzhou, Guangdong)
     date_start: 2021-09-05
-    date_end: 2025-07-01
+    date_end: 2025-06-11
     summary: |
       GPA: 4.08/5.00 (90.8/100.0)
           
       Medium of Instruction: English
+
+      RANK: 1/31
+
+      Not an outstanding graduate
+  - area: M.Eng Artificial Intelligence (Expected)
+    institution: Jinan University (Guangzhou, Guangdong)
+    date_start: 2025-09-08
+    date_end: 2028-07-01
+    summary: |
+      Graduate English courses cannot be exempted
       
 # work:
 #   - position: Director of Cloud Infrastructure
@@ -133,6 +143,10 @@ skills:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 
 awards:
+    - title: Outstanding Graduates First-class Scholarship
+      # icon: /custom/scholarship
+      awarder: Jinan University
+      date: '2025-04-29'
     - title: National Third Prize and Provincial First Prize
       # icon: /custom/trophy
       awarder: The 15th LanQiao Cup Contest
@@ -170,8 +184,6 @@ languages:
     percent: 100
   - name: Chinese (Teochew)
     percent: 100
-  - name: Chinese (Cantonese)
-    percent: 60
   - name: English
     percent: 60
 
@@ -179,4 +191,4 @@ languages:
 
 ## About Me
 
-Yuqin Hong is an undergraduate student pursuing bachelor of engineering degree in computer science and technology at Jinan University. He will soon become a master's student in artificial intelligence at Jinan University.
+I received B.Eng in Computer Science & Technology, and will continue to pursue M.Eng in Artificial Intelligence all from Jinan University.
