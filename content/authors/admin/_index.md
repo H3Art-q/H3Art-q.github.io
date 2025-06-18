@@ -49,16 +49,17 @@ interests:
   - Software Security
 
 education:
-  - area: B.Eng Computer Science and Technology
+  - area: B.Eng in Computer Science and Technology
     institution: Jinan University (Guangzhou, Guangdong)
     date_start: 2021-09-05
     date_end: 2025-06-11
     summary: |
-      GPA: 4.08/5.00 (90.8/100.0)
-      Medium of Instruction: English
-      RANK: 1/32
-      Not an outstanding graduate
-  - area: M.Eng Artificial Intelligence (Expected)
+      During this period:
+      - GPA: 4.08/5.00 (90.8/100.0)
+      - Medium of Instruction: English
+      - Rank: 1/32
+      - Not an Outstanding Graduate
+  - area: M.Eng in Artificial Intelligence (Expected)
     institution: Jinan University (Guangzhou, Guangdong)
     date_start: 2025-09-08
     date_end: 2028-07-01
@@ -188,4 +189,4 @@ languages:
 
 ## About Me
 
-I received B.Eng in Computer Science & Technology, and will continue to pursue M.Eng in Artificial Intelligence all from Jinan University. I love my university as much as my university loves me.
+I received B.Eng in Computer Science & Technology, and will continue to pursue M.Eng in Artificial Intelligence all from Jinan University. ~~I love my university as much as my university loves me.~~
