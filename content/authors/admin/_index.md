@@ -55,11 +55,8 @@ education:
     date_end: 2025-06-11
     summary: |
       GPA: 4.08/5.00 (90.8/100.0)
-          
       Medium of Instruction: English
-
-      RANK: 1/31
-
+      RANK: 1/32
       Not an outstanding graduate
   - area: M.Eng Artificial Intelligence (Expected)
     institution: Jinan University (Guangzhou, Guangdong)
@@ -191,4 +188,4 @@ languages:
 
 ## About Me
 
-I received B.Eng in Computer Science & Technology, and will continue to pursue M.Eng in Artificial Intelligence all from Jinan University.
+I received B.Eng in Computer Science & Technology, and will continue to pursue M.Eng in Artificial Intelligence all from Jinan University. I love my university as much as my university loves me.
