@@ -189,4 +189,4 @@ languages:
 
 ## About Me
 
-I received B.Eng in Computer Science & Technology, and will continue to pursue M.Eng in Artificial Intelligence all from Jinan University. ~~I love my university as much as my university loves me.~~
+I received B.Eng in Computer Science & Technology, and will continue to pursue M.Eng in Artificial Intelligence all from Jinan University. I love my university as much as my university loves me.
