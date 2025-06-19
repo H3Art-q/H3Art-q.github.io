@@ -189,4 +189,6 @@ languages:
 
 ## About Me
 
-I received B.Eng in Computer Science & Technology, and will continue to pursue M.Eng in Artificial Intelligence all from Jinan University. I love my university as much as my university loves me.
+From Chaozhou, Guangdong, I have obtained a B.Eng degree in Computer Science & Technology and will continue to pursue a M.Eng degree in Artificial Intelligence all from Jinan University.
+
+I love my university as much as my university loves me.
