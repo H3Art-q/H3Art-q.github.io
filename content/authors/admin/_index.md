@@ -41,10 +41,12 @@ profiles:
     url: https://orcid.org/0009-0007-9663-4524
   - icon: /custom/netease_cloud_music
     url: https://music.163.com/#/user/home?id=575233892
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/yuqin-hong-46b05b298
 
 interests:
+  - Efficient ML
   - AI Acceleration
-  - Temporal Data Mining
   - Reinforcement Learning
   - Software Security
 
