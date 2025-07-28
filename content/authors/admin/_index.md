@@ -57,10 +57,8 @@ education:
     date_end: 2025-06-11
     summary: |
       During this period:
-      - GPA: 4.08/5.00 (90.8/100.0)
+      - GPA: 4.08/5.00 (90.8/100.0) with final rank 1/32
       - Medium of Instruction: English
-      - Rank: 1/32
-      - Not an Outstanding Graduate
   - area: M.Eng in Artificial Intelligence (Expected)
     institution: Jinan University (Guangzhou, Guangdong)
     date_start: 2025-09-08
