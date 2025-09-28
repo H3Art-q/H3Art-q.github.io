@@ -45,10 +45,10 @@ profiles:
     url: https://www.linkedin.com/in/yuqin-hong-46b05b298
 
 interests:
-  - Efficient ML
+  - Efficient Machine Learning
   - AI Acceleration
   - Reinforcement Learning
-  - Software Security
+  - Network Security
 
 education:
   - area: B.Eng in Computer Science and Technology
@@ -149,26 +149,14 @@ awards:
       # icon: /custom/trophy
       awarder: The 15th LanQiao Cup Contest
       date: '2024-06-02'
-    - title: Provincial Second Prize
-      # icon: /custom/trophy
-      awarder: Contemporary Undergraduate Mathematical Contest in Modeling
-      date: '2024-05-09'
     - title: China National Scholarship
       # icon: /custom/scholarship
       awarder: Ministry of Education
       date: '2023-12-20'
-    - title: Outstanding Student Representative
-      # icon: /custom/honor
-      awarder: Jinan University
-      date: '2023-06-01'
     - title: Outstanding Backbone Student Scholarship
       # icon: /custom/scholarship
       awarder: Jinan University
       date: '2022-12-28'
-    - title: Provincial Third Prize
-      # icon: /custom/trophy
-      awarder: National Student Contest on Software Testing
-      date: '2022-11-27'
 #    - title: Neural Networks and Deep Learning
 #      url: https://www.coursera.org/learn/neural-networks-deep-learning
 #      date: '2023-11-25'
@@ -183,7 +171,7 @@ languages:
   - name: Chinese (Teochew)
     percent: 100
   - name: English
-    percent: 60
+    percent: 70
 
 ---
 

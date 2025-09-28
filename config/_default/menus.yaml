@@ -6,7 +6,7 @@
 main:
   - name: About Me
     url: /
-    weight: 20
+    weight: 40
   - name: Projects
     url: projects/
     weight: 30
