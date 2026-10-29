@@ -37,8 +37,6 @@ profiles:
     url: https://github.com/H3Art-q
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=5ALyGM0CSaAC&hl=zh-CN
-  - icon: academicons/orcid
-    url: https://orcid.org/0009-0007-9663-4524
   - icon: /custom/netease_cloud_music
     url: https://music.163.com/#/user/home?id=575233892
   - icon: brands/linkedin
@@ -46,8 +44,8 @@ profiles:
 
 interests:
   - Efficient Machine Learning
+  - Programmable Networks
   - AI Acceleration
-  - Reinforcement Learning
   - Network Security
 
 education:
@@ -56,15 +54,16 @@ education:
     date_start: 2021-09-05
     date_end: 2025-06-11
     summary: |
-      During this period:
       - GPA: 4.08/5.00 (90.8/100.0) with final rank 1/32
       - Medium of Instruction: English
+      - Postgraduate recommendation exemption
   - area: M.Eng in Artificial Intelligence (Expected)
     institution: Jinan University (Guangzhou, Guangdong)
     date_start: 2025-09-08
     date_end: 2028-07-01
     summary: |
-      Graduate English courses cannot be exempted
+      - Graduate English courses cannot be exempted
+      - Supervisor: <a href="https://cuilin.antlab.network">Lin CUI</a>
       
 # work:
 #   - position: Director of Cloud Infrastructure
