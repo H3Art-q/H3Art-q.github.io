@@ -12,8 +12,8 @@ authors:
     - admin
 
 # Author notes (optional)
-author_notes:
-  - 'Corresponding Author'
+# author_notes:
+#   - 'Corresponding Author'
 
 date: '2024-08-01T00:00:00Z'
 doi: 'https://doi.org/10.1007/978-981-97-5663-6_4'
